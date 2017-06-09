@@ -48,8 +48,8 @@ Proposition:
 
 # Lister les projets en cours
 
-* tuto en lua pour debutant (cf. Array_)
-* La traduction de sheepolution en francais faite par 
+* tuto en lua pour debutant par Array_ [ici](https://github.com/tst2005/tuto-lua/blob/master/guideLua.md) (Note: mettre son repo et pas le mien)
+* La traduction de sheepolution en francais faite par Chipster1 [ici](https://hammerdale.nsupdate.info/blog/post/sheepolution/avant_propos_trad_sheepolution/)
 
 # Les LICENSES pour nos creations
 

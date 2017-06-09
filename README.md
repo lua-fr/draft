@@ -46,7 +46,31 @@ Proposition:
 * confcall voip multiuser : audio+webcam : hubl.in
 
 
-# Lister les projets
+# Lister les projets en cours
 
 * tuto en lua pour debutant (cf. Array_)
+* La traduction de sheepolution en francais faite par 
+
+# Les LICENSES pour nos creations
+
+J'y met mes propositions, c'est a discuter
+
+## License pour les textes (Documentation, tuto, ...) :
+
+* [CC BY-SA](https://creativecommons.org/licenses/by-sa/2.0/deed.fr) Attribution et Partage dans les Mêmes Conditions 2.0 Générique (CC BY-SA 2.0)
+
+
+## License pour Pour le code:
+
+* License MIT (== X11/MIT ?)
+
+
+Note importante:
+
+Je (TsT) ne souhaite pas de close ND (Non-Commerciale).
+
+A première lecture la plus part des personnes ne veulent pas founir un travail bénévolement/gratuitement et que d'autres puissent le reprendre pour en faire de l'argent.
+C'est assez humain et compréhensible, mais il faut comprendre que la close s'applique a nous même aussi.
+Une close non-commercial rend impossible la publication dans un magazine payant ou l'inclusion dans un bundle payant, ou n'importe quoi de payant qu'on voudrait faire avec dans le futur.
+
 

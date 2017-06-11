@@ -11,5 +11,7 @@
 * https://tst2005.github.io/manual/lua/5.1/
 * https://tst2005.github.io/manual/lua/5.2/
 * https://tst2005.github.io/manual/lua/5.3/
-* luafilesystem, luasocket, luasql+fr
+* https://tst2005.github.io/luafilesystem/
+* https://tst2005.github.io/luasql/doc/fr/
+
 

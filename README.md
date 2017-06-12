@@ -38,7 +38,7 @@ Propositions :
 * utiliser ou non lua-fr.github.io ?
 
 
-### autres outils
+### Autres outils
 
 * https://nulis.io/ + lien parainage
 
@@ -48,7 +48,6 @@ Propositions :
 ## Lister les projets en cours
 
 Voir https://public.etherpad-mozilla.org/p/lua-fr
-
 
 ## Les licenses pour nos creations
 

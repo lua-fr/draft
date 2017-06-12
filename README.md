@@ -1,14 +1,14 @@
 
 # Lua Fr
 
-# But ?
+## But ?
 
-* Rassembler les ressources existantes (documentation, tutorial, liens, ...) qui concerne le lua pour les francophones.
-* Creer du contenu
+* Rassembler les ressources existantes (documentation, tutorial, liens...) qui concernent Lua pour les francophones.
+* Créer du contenu
 
-Faire en sorte que des nouveaux venus puisse se débrouiller par eux même
+Faire en sorte que les débutants puissent apprendre, et progresser tout seul.
 
-* Aider ceux qui nous demande de l'aide (actuellement sur IRC)
+* Aider ceux qui nous demandent de l'aide (actuellement sur IRC)
 
 
 ## Qui ?
@@ -18,59 +18,57 @@ Avec n'importe quelles personnes volontaire !
 
 ## Ouverture
 
-Le salon IRC que nous utilisons est publique et ouvert à tous.
-
+Le salon IRC que nous utilisons est public et ouvert à tous.
 
 
 ## Nos Outils ?
 
-* Le salon IRC #lua-fr sur Freenode
-* le reste est a définir
+* Le salon IRC #lua-fr hébergé sur Freenode
+* le reste est à définir
 
-Proposition:
+Propositions :
 
-* Des Dépots Git sur github, géré autour d'une organisation nommée lua-fr
+* Des dépots git hébergés sur GitHub, gérés autour d'une organisation nommée lua-fr
 * Etendre les moyens de communication avec [Matrix](matrix.org)
-  * Une instance auto hébergé (d'un homeserver synapse)
-  * + accès par [client web](https://riot.im/app/)
+  * Une instance auto-hébergée (d'un homeserver synapse)
+  * + accès par un [client web](https://riot.im/app/)
   * un bridge vers IRC
 
-* obtenir un nom de domaine (gratuit a vie) ?
+* obtenir un nom de domaine (gratuit à vie) ?
 * utiliser ou non lua-fr.github.io ?
 
 
-### autre outil
+### autres outils
 
 * https://nulis.io/ + lien parainage
 
 * confcall voip multiuser : audio+webcam : hubl.in
 
 
-# Lister les projets en cours
+## Lister les projets en cours
 
-* tuto en lua pour debutant par Array_ [ici](https://github.com/tst2005/tuto-lua/blob/master/guideLua.md) (Note: mettre son repo et pas le mien)
+* tuto en lua pour débutant par Array_ [ici](https://github.com/tst2005/tuto-lua/blob/master/guideLua.md) (Note : mettre son repo et pas le mien)
 * La traduction de sheepolution en francais faite par Chipster1 [ici](https://hammerdale.nsupdate.info/blog/post/sheepolution/avant_propos_trad_sheepolution/)
 
-# Les LICENSES pour nos creations
+## Les licenses pour nos creations
 
-J'y met mes propositions, c'est a discuter
+J'y mets mes propositions, c'est à discuter
 
-## License pour les textes (Documentation, tuto, ...) :
+### Licence pour les textes (documentation, tuto...) :
 
-* [CC BY-SA](https://creativecommons.org/licenses/by-sa/2.0/deed.fr) Attribution et Partage dans les Mêmes Conditions 2.0 Générique (CC BY-SA 2.0)
+* [CC BY-SA](https://creativecommons.org/licenses/by-sa/2.0/deed.fr) Attribution et Partage dans les mêmes Conditions 2.0 Générique (CC BY-SA 2.0)
 
 
-## License pour Pour le code:
+### Licence pour Pour le code:
 
-* License MIT (== X11/MIT ?)
+* Licence MIT (== X11/MIT ?)
 
 
 Note importante:
 
 Je (TsT) ne souhaite pas de close ND (Non-Commerciale).
 
-A première lecture la plus part des personnes ne veulent pas founir un travail bénévolement/gratuitement et que d'autres puissent le reprendre pour en faire de l'argent.
-C'est assez humain et compréhensible, mais il faut comprendre que la close s'applique a nous même aussi.
-Une close non-commercial rend impossible la publication dans un magazine payant ou l'inclusion dans un bundle payant, ou n'importe quoi de payant qu'on voudrait faire avec dans le futur.
-
+A première lecture, la plupart des personnes ne veulent pas founir un travail bénévolement/gratuitement et que d'autres puissent le reprendre pour en faire de l'argent.
+C'est assez humain et compréhensible, mais il faut comprendre que la close s'applique à nous aussi.
+Une close non-commerciale rend impossible la publication dans un magazine payant ou l'inclusion dans un bundle payant, ou n'importe quoi de payant qu'on voudrait faire avec dans le futur.
 

@@ -17,7 +17,19 @@
 * utiliser ou non lua-fr.github.io ?
 
 
+
+
 ## Autres outils
+
+### de traduction
+
+* Chez GNOME: leur outil [damned-lies](https://git.gnome.org//browse/damned-lies) ([Leur instance](https://l10n.gnome.org/))
+* Les concurrents : zanata, pootle, weblate
+* Ne pas utiliser Transifex #sapusaipalibre
+
+* Voir pour convertir en `.po` : po4a
+
+### autre
 
 * confcall voip multiuser : audio+webcam : hubl.in
 

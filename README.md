@@ -47,7 +47,7 @@ Propositions :
 
 ## Lister les projets en cours
 
-Voir https://public.etherpad-mozilla.org/p/lua-fr
+Voir [nos projets](projets.md)
 
 ## Les licenses pour nos creations
 

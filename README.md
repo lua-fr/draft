@@ -24,25 +24,8 @@ Le salon IRC que nous utilisons est public et ouvert à tous.
 ## Nos Outils ?
 
 * Le salon IRC #lua-fr hébergé sur Freenode
-* le reste est à définir
 
-Propositions :
-
-* Des dépots git hébergés sur GitHub, gérés autour d'une organisation nommée lua-fr
-* Etendre les moyens de communication avec [Matrix](matrix.org)
-  * Une instance auto-hébergée (d'un homeserver synapse)
-  * + accès par un [client web](https://riot.im/app/)
-  * un bridge vers IRC
-
-* obtenir un nom de domaine (gratuit à vie) ?
-* utiliser ou non lua-fr.github.io ?
-
-
-### Autres outils
-
-* https://nulis.io/ + lien parainage
-
-* confcall voip multiuser : audio+webcam : hubl.in
+* voir [nos-outils-de-travail](nos-outils-de-travail.md)
 
 
 ## Lister les projets en cours

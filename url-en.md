@@ -15,6 +15,10 @@
 * https://tst2005.github.io/manual/lua/5.3/
 * https://tst2005.github.io/luafilesystem/
 
+# (ru) guide
+
+* https://github.com/martin-eden/coding-guidelines/blob/master/lua-guidelines.md
+
 
 ## (fr)
 

@@ -48,7 +48,7 @@ J'y mets mes propositions, c'est à discuter
 
 Note importante:
 
-Je (TsT) ne souhaite pas de close ND (Non-Commerciale).
+Je (TsT) ne souhaite pas de close NC (Non-Commerciale).
 
 A première lecture, la plupart des personnes ne veulent pas founir un travail bénévolement/gratuitement et que d'autres puissent le reprendre pour en faire de l'argent.
 C'est assez humain et compréhensible, mais il faut comprendre que la close s'applique à nous aussi.
